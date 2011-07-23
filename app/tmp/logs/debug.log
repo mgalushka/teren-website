@@ -1,0 +1,1182 @@
+2008-01-25 00:31:09 Debug: Passed token: 
+2008-01-25 00:31:39 Debug: Passed token: test
+2008-01-25 00:33:55 Debug: Passed token: test
+2008-01-25 00:34:08 Debug: Passed token: test
+2008-01-25 00:34:48 Debug: Passed token: 
+2008-01-25 00:35:02 Debug: Passed token: test-22-r
+2008-01-25 00:35:51 Debug: Passed token: test-22-r
+2008-01-25 00:36:14 Debug: Passed token: test-22-r
+2008-01-25 00:36:20 Debug: Passed token: test-22-r
+2008-01-25 00:36:28 Debug: Passed token: 
+2008-01-25 00:38:14 Debug: Passed token: test-22-r-m
+2008-01-25 00:38:22 Debug: Passed token: 
+2008-01-25 00:41:59 Debug: Passed token: test-22-r-m-f
+2008-01-25 00:42:06 Debug: Passed token: 
+2008-01-25 00:42:09 Debug: Passed token: test-22-r-m-f
+2008-01-25 00:42:21 Debug: Passed token: 
+2008-01-25 00:42:29 Debug: Passed token: 
+2008-01-25 00:48:57 Debug: Passed token: test-22-r-m-f-su
+2008-01-25 00:49:01 Debug: Passed token: 
+2008-01-25 00:49:04 Debug: Passed token: test-22-r-m-f-su
+2008-01-25 00:49:09 Debug: Passed token: 
+2008-01-25 00:49:12 Debug: Passed token: token-2
+2008-01-25 00:49:19 Debug: Passed token: 
+2008-01-25 00:49:23 Debug: Passed token: geniy-ukr-lit
+2008-01-25 00:49:33 Debug: Passed token: 
+2008-01-25 00:49:36 Debug: Passed token: geniy-ukr-lit11-oops
+2008-01-25 00:59:45 Debug: Passed token: 
+2008-01-25 01:00:11 Debug: Passed token: 
+2008-01-25 01:32:12 Debug: Passed token: 
+2008-01-25 01:32:34 Debug: Passed token: 
+2008-01-25 01:32:40 Debug: Passed token: drama-1
+2008-01-25 01:32:44 Debug: Passed token: 
+2008-01-25 01:34:06 Debug: Passed token: tekon-23-d-less
+2008-01-25 01:36:12 Debug: Passed token: 
+2008-01-25 01:36:55 Debug: Passed token: tekon-23-d-less
+2008-01-25 01:36:59 Debug: Passed token: 
+2008-01-25 01:36:59 Debug: 1
+2008-01-25 01:37:50 Debug: Passed token: token-3
+2008-01-25 01:37:53 Debug: Passed token: 
+2008-01-25 01:37:53 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 3
+            [text_title] => Title 3
+            [text_token] => token-3
+            [text_date] => 5
+            [text_date_label] => fh
+            [text_year] => 2008
+            [text] => c b cvb cvbcvbcvb cvbcvbcvbcvvccvbvc
+        )
+
+)
+
+2008-01-25 01:40:31 Debug: Passed token: tekon-23-d-less
+2008-01-25 01:40:34 Debug: Passed token: 
+2008-01-25 01:40:34 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 4
+            [genre_id] => 3
+            [text_title] => Title 4
+            [text_token] => tekon-23-d-less
+            [text_date] => 3
+            [text_date_label] => gfhfghfh
+            [text_year] => 2008
+            [text] => РўР•РєСЃС‚
+        )
+
+)
+
+2008-01-25 01:42:57 Debug: Passed token: poetry
+2008-01-25 01:43:01 Debug: Passed token: 
+2008-01-25 01:43:01 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 12
+            [genre_id] => 3
+            [text_title] => Стихи
+            [text_token] => poetry
+            [text_date] => 11/12/2007
+            [text_date_label] => jkxhjczhjk
+            [text_year] => 2006
+            [text] => ackjkczxc zc zxczxc
+        )
+
+)
+
+2008-01-25 01:44:27 Debug: Passed token: poetry
+2008-01-25 01:44:31 Debug: Passed token: 
+2008-01-25 01:44:31 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 12
+            [genre_id] => 3
+            [text_title] => Стихи
+            [text_token] => poetry
+            [text_date] => 11/12/2007
+            [text_date_label] => jkxhjczhjk
+            [text_year] => 2006
+            [text] => ackjkczxc zc zxczxc
+        )
+
+)
+
+2008-01-25 01:45:03 Debug: Passed token: poetry
+2008-01-25 01:45:07 Debug: Passed token: 
+2008-01-25 01:45:07 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 12
+            [genre_id] => 2
+            [text_title] => Стихи
+            [text_token] => poetry
+            [text_date] => 11/12/2007
+            [text_date_label] => jkxhjczhjk
+            [text_year] => 2006
+            [text] => ackjkczxc zc zxczxc
+        )
+
+)
+
+2008-01-25 01:58:06 Debug: Passed token: 
+2008-01-25 01:58:16 Debug: Passed token: 
+2008-01-25 01:58:16 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 
+            [genre_id] => 2
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+)
+
+2008-01-25 01:58:19 Debug: Passed token: asd
+2008-01-25 01:58:22 Debug: Passed token: 
+2008-01-25 01:58:22 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 2
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+)
+
+2008-01-25 02:03:00 Debug: Passed token: asd
+2008-01-25 02:03:04 Debug: Passed token: 
+2008-01-25 02:03:04 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 3
+        )
+
+)
+
+2008-01-25 02:03:06 Debug: Passed token: asd
+2008-01-25 02:03:09 Debug: Passed token: 
+2008-01-25 02:03:09 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 2
+        )
+
+)
+
+2008-01-25 02:05:30 Debug: Passed token: asd
+2008-01-25 02:05:31 Debug: Passed token: asd
+2008-01-25 02:05:34 Debug: Passed token: 
+2008-01-25 02:05:34 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 2
+        )
+
+)
+
+2008-01-25 02:05:36 Debug: Passed token: asd
+2008-01-25 02:05:39 Debug: Passed token: 
+2008-01-25 02:05:39 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 3
+        )
+
+)
+
+2008-01-25 02:06:19 Debug: Passed token: asd
+2008-01-25 02:06:23 Debug: Passed token: 
+2008-01-25 02:06:23 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 3
+        )
+
+)
+
+2008-01-25 02:07:25 Debug: Passed token: asd
+2008-01-25 02:07:40 Debug: Passed token: asd
+2008-01-25 02:07:43 Debug: Passed token: 
+2008-01-25 02:07:43 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 2
+        )
+
+)
+
+2008-01-25 02:07:45 Debug: Passed token: asd
+2008-01-25 02:07:49 Debug: Passed token: 
+2008-01-25 02:07:49 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 3
+        )
+
+)
+
+2008-01-25 02:10:58 Debug: Passed token: asd
+2008-01-25 02:11:01 Debug: Passed token: 
+2008-01-25 02:11:08 Debug: Passed token: 
+2008-01-25 02:11:58 Debug: Passed token: 
+2008-01-25 02:12:10 Debug: Passed token: asd
+2008-01-25 02:12:19 Debug: Passed token: asd
+2008-01-25 02:12:23 Debug: Passed token: 
+2008-01-25 02:12:26 Debug: Passed token: 
+2008-01-25 02:12:26 Debug: Passed token: 
+2008-01-25 02:12:27 Debug: Passed token: 
+2008-01-25 02:12:27 Debug: Passed token: 
+2008-01-25 02:12:27 Debug: Passed token: 
+2008-01-25 02:12:31 Debug: Passed token: asd
+2008-01-25 02:13:05 Debug: Passed token: asd
+2008-01-25 02:13:08 Debug: Passed token: 
+2008-01-25 02:13:17 Debug: Passed token: asd
+2008-01-25 02:13:37 Debug: Passed token: 
+2008-01-25 02:15:02 Debug: Passed token: asd
+2008-01-25 02:15:05 Debug: Passed token: 
+2008-01-25 02:15:05 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 2
+        )
+
+)
+
+2008-01-25 02:15:46 Debug: Passed token: asd
+2008-01-25 02:15:50 Debug: Passed token: 
+2008-01-25 02:15:50 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+            [genre_id] => 3
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 3
+        )
+
+)
+
+2008-01-25 02:20:33 Debug: Passed token: asd
+2008-01-25 02:20:37 Debug: Passed token: 
+2008-01-25 02:20:37 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 2
+            [text_title] => sad
+            [text_token] => asd
+            [text_date] => asd
+            [text_date_label] => asd
+            [text_year] => 2007
+            [text] => xzc
+        )
+
+)
+
+2008-01-25 02:21:15 Debug: Passed token: asd
+2008-01-25 02:21:25 Debug: Passed token: 
+2008-01-25 02:21:25 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 1
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 02:22:00 Debug: Passed token: asd1
+2008-01-25 02:22:03 Debug: Passed token: 
+2008-01-25 02:22:03 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 2
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 02:22:16 Debug: Passed token: asd1
+2008-01-25 02:22:20 Debug: Passed token: 
+2008-01-25 02:22:20 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 3
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 02:22:41 Debug: Passed token: asd1
+2008-01-25 02:22:57 Debug: Passed token: asd1
+2008-01-25 02:23:00 Debug: Passed token: 
+2008-01-25 02:23:00 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 1
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111a
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 02:24:16 Debug: Passed token: 
+2008-01-25 02:24:16 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 1
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111a
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 02:24:16 Debug: !!! GENRE: 1
+2008-01-25 02:24:22 Debug: Passed token: 
+2008-01-25 02:24:22 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 3
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 02:24:22 Debug: !!! GENRE: 3
+2008-01-25 10:38:52 Debug: Passed token: asd1
+2008-01-25 10:38:55 Debug: Passed token: asd1
+2008-01-25 10:39:05 Debug: Passed token: asd1
+2008-01-25 10:39:34 Debug: Passed token: asd1
+2008-01-25 10:40:05 Debug: Passed token: asd1
+2008-01-25 10:40:10 Debug: Passed token: asd1
+2008-01-25 10:49:41 Debug: Passed token: asd1
+2008-01-25 10:49:42 Debug: Passed token: asd1
+2008-01-25 10:49:43 Debug: Passed token: asd1
+2008-01-25 10:50:47 Debug: Passed token: asd1
+2008-01-25 10:50:48 Debug: Passed token: asd1
+2008-01-25 10:51:32 Debug: Passed token: asd1
+2008-01-25 10:51:32 Debug: Passed token: asd1
+2008-01-25 10:51:33 Debug: Passed token: asd1
+2008-01-25 10:51:33 Debug: Passed token: asd1
+2008-01-25 10:51:33 Debug: Passed token: asd1
+2008-01-25 10:51:34 Debug: Passed token: asd1
+2008-01-25 10:51:34 Debug: Passed token: asd1
+2008-01-25 10:51:34 Debug: Passed token: asd1
+2008-01-25 10:51:34 Debug: Passed token: asd1
+2008-01-25 10:51:34 Debug: Passed token: asd1
+2008-01-25 10:51:35 Debug: Passed token: asd1
+2008-01-25 10:51:35 Debug: Passed token: asd1
+2008-01-25 10:51:35 Debug: Passed token: asd1
+2008-01-25 10:51:35 Debug: Passed token: asd1
+2008-01-25 10:51:35 Debug: Passed token: asd1
+2008-01-25 10:51:36 Debug: Passed token: asd1
+2008-01-25 10:51:36 Debug: Passed token: asd1
+2008-01-25 10:51:36 Debug: Passed token: asd1
+2008-01-25 10:51:58 Debug: Passed token: asd1
+2008-01-25 10:51:59 Debug: Passed token: asd1
+2008-01-25 10:51:59 Debug: Passed token: asd1
+2008-01-25 10:51:59 Debug: Passed token: asd1
+2008-01-25 10:51:59 Debug: Passed token: asd1
+2008-01-25 10:52:00 Debug: Passed token: asd1
+2008-01-25 10:52:00 Debug: Passed token: asd1
+2008-01-25 10:52:01 Debug: Passed token: asd1
+2008-01-25 10:52:01 Debug: Passed token: asd1
+2008-01-25 10:52:01 Debug: Passed token: asd1
+2008-01-25 10:52:28 Debug: Passed token: asd1
+2008-01-25 10:52:29 Debug: Passed token: asd1
+2008-01-25 10:52:30 Debug: Passed token: asd1
+2008-01-25 10:52:30 Debug: Passed token: asd1
+2008-01-25 10:52:30 Debug: Passed token: asd1
+2008-01-25 10:52:31 Debug: Passed token: asd1
+2008-01-25 10:52:31 Debug: Passed token: asd1
+2008-01-25 10:52:31 Debug: Passed token: asd1
+2008-01-25 10:52:42 Debug: Passed token: asd1
+2008-01-25 10:52:43 Debug: Passed token: asd1
+2008-01-25 10:52:43 Debug: Passed token: asd1
+2008-01-25 10:52:43 Debug: Passed token: asd1
+2008-01-25 10:52:43 Debug: Passed token: asd1
+2008-01-25 10:53:03 Debug: Passed token: asd1
+2008-01-25 10:53:18 Debug: Passed token: asd1
+2008-01-25 10:53:24 Debug: Passed token: 
+2008-01-25 10:53:24 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 2
+        )
+
+)
+
+2008-01-25 10:53:24 Debug: !!! GENRE: 
+2008-01-25 10:53:26 Debug: Passed token: asd1
+2008-01-25 10:53:30 Debug: Passed token: 
+2008-01-25 10:53:30 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+    [Genre] => Array
+        (
+            [genre_id] => 3
+        )
+
+)
+
+2008-01-25 10:53:30 Debug: !!! GENRE: 
+2008-01-25 10:54:01 Debug: Passed token: asd1
+2008-01-25 10:54:04 Debug: Passed token: 
+2008-01-25 10:54:04 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 3
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 10:54:04 Debug: !!! GENRE: 3
+2008-01-25 10:54:06 Debug: Passed token: asd1
+2008-01-25 10:54:09 Debug: Passed token: 
+2008-01-25 10:54:09 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 2
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 10:54:09 Debug: !!! GENRE: 2
+2008-01-25 10:54:48 Debug: Passed token: asd1
+2008-01-25 10:54:51 Debug: Passed token: 
+2008-01-25 10:54:51 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 3
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 10:54:51 Debug: !!! GENRE: 3
+2008-01-25 10:54:51 Debug: AFTER SAVE GENRE: 3
+2008-01-25 10:56:04 Debug: Passed token: asd1
+2008-01-25 10:56:13 Debug: Passed token: 
+2008-01-25 10:56:13 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 2
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 10:56:13 Debug: !!! GENRE: 2
+2008-01-25 10:56:13 Debug: AFTER SAVE GENRE: 2
+2008-01-25 10:56:39 Debug: Passed token: asd1
+2008-01-25 10:56:42 Debug: Passed token: 
+2008-01-25 10:56:42 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 3
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 10:56:42 Debug: !!! GENRE: 3
+2008-01-25 10:56:42 Debug: AFTER SAVE GENRE: 3
+2008-01-25 10:58:11 Debug: Passed token: 
+2008-01-25 10:58:25 Debug: Passed token: 
+2008-01-25 10:58:25 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 
+            [genre_id] => 2
+            [text_title] => 2
+            [text_token] => 2
+            [text_date] => 2
+            [text_date_label] => 2
+            [text_year] => 2
+            [text] => 2
+        )
+
+)
+
+2008-01-25 10:58:25 Debug: !!! GENRE: 2
+2008-01-25 10:58:25 Debug: AFTER SAVE GENRE: 2
+2008-01-25 10:59:05 Debug: Passed token: 
+2008-01-25 10:59:14 Debug: Passed token: 
+2008-01-25 10:59:14 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 
+            [genre_id] => 3
+            [text_title] => 33
+            [text_token] => 33
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 10:59:14 Debug: !!! GENRE: 3
+2008-01-25 10:59:14 Debug: AFTER SAVE GENRE: 3
+2008-01-25 10:59:49 Debug: Passed token: 
+2008-01-25 10:59:49 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 
+            [genre_id] => 2
+            [text_title] => 33
+            [text_token] => 33
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 10:59:49 Debug: !!! GENRE: 2
+2008-01-25 10:59:49 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:00:20 Debug: Passed token: 33
+2008-01-25 11:00:28 Debug: Passed token: 
+2008-01-25 11:00:28 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 3
+            [text_title] => 33
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:00:28 Debug: !!! GENRE: 3
+2008-01-25 11:00:28 Debug: AFTER SAVE GENRE: 3
+2008-01-25 11:01:34 Debug: Passed token: asd1
+2008-01-25 11:01:39 Debug: Passed token: 
+2008-01-25 11:01:39 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 1
+            [genre_id] => 2
+            [text_title] => sad1
+            [text_token] => asd1
+            [text_date] => asd1
+            [text_date_label] => asd1
+            [text_year] => 1111
+            [text] => xzc1
+        )
+
+)
+
+2008-01-25 11:01:39 Debug: !!! GENRE: 2
+2008-01-25 11:01:39 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:02:36 Debug: Passed token: 33
+2008-01-25 11:02:43 Debug: Passed token: 
+2008-01-25 11:02:43 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 2
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:02:43 Debug: !!! GENRE: 2
+2008-01-25 11:02:43 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:07:24 Debug: Passed token: 33
+2008-01-25 11:08:13 Debug: Passed token: 33
+2008-01-25 11:13:27 Debug: Passed token: 33
+2008-01-25 11:13:31 Debug: Passed token: 
+2008-01-25 11:13:31 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 2
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:13:31 Debug: !!! GENRE: 2
+2008-01-25 11:13:31 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:14:00 Debug: Passed token: 
+2008-01-25 11:14:00 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 1
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:14:00 Debug: !!! GENRE: 1
+2008-01-25 11:14:00 Debug: AFTER SAVE GENRE: 1
+2008-01-25 11:14:06 Debug: Passed token: 
+2008-01-25 11:14:06 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 2
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:14:06 Debug: !!! GENRE: 2
+2008-01-25 11:14:06 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:14:51 Debug: Passed token: 33
+2008-01-25 11:15:31 Debug: Passed token: 33
+2008-01-25 11:15:32 Debug: Passed token: 33
+2008-01-25 11:15:39 Debug: Passed token: 33
+2008-01-25 11:15:42 Debug: Passed token: 33
+2008-01-25 11:15:54 Debug: Passed token: 2
+2008-01-25 11:16:42 Debug: Passed token: 
+2008-01-25 11:16:42 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 2
+            [genre_id] => 2
+            [text_title] => 2
+            [text_token] => 21
+            [text_date] => 2
+            [text_date_label] => 2
+            [text_year] => 2
+            [text] => 2
+        )
+
+)
+
+2008-01-25 11:16:42 Debug: !!! GENRE: 2
+2008-01-25 11:16:42 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:19:30 Debug: Passed token: 
+2008-01-25 11:19:30 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 2
+            [genre_id] => 2
+            [text_title] => 2
+            [text_token] => 21
+            [text_date] => 2
+            [text_date_label] => 2
+            [text_year] => 2
+            [text] => 2
+        )
+
+)
+
+2008-01-25 11:19:30 Debug: !!! GENRE: 2
+2008-01-25 11:19:30 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:19:43 Debug: Passed token: 
+2008-01-25 11:19:43 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 2
+            [genre_id] => 3
+            [text_title] => 2xv
+            [text_token] => 21xvxv
+            [text_date] => 2xv
+            [text_date_label] => 2xv
+            [text_year] => 2xvc
+            [text] => 2cv
+        )
+
+)
+
+2008-01-25 11:19:43 Debug: !!! GENRE: 3
+2008-01-25 11:19:43 Debug: AFTER SAVE GENRE: 3
+2008-01-25 11:26:36 Debug: Passed token: 
+2008-01-25 11:26:36 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 2
+            [genre_id] => 3
+            [text_title] => 2xv
+            [text_token] => 21xvxv
+            [text_date] => 2xv
+            [text_date_label] => 2xv
+            [text_year] => 2xvc
+            [text] => 2cv
+        )
+
+)
+
+2008-01-25 11:26:36 Debug: !!! GENRE: 3
+2008-01-25 11:26:36 Debug: AFTER SAVE GENRE: 3
+2008-01-25 11:26:50 Debug: Passed token: 
+2008-01-25 11:26:50 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 2
+            [genre_id] => 2
+            [text_title] => 2xv
+            [text_token] => 21xvxv
+            [text_date] => 2xv
+            [text_date_label] => 2xv
+            [text_year] => 2xvc
+            [text] => 2cv
+        )
+
+)
+
+2008-01-25 11:26:50 Debug: !!! GENRE: 2
+2008-01-25 11:26:50 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:49:33 Debug: Passed token: 33
+2008-01-25 11:49:40 Debug: Passed token: 
+2008-01-25 11:49:40 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 2
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:49:40 Debug: !!! GENRE: 2
+2008-01-25 11:49:40 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:55:20 Debug: Passed token: 
+2008-01-25 11:55:20 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 2
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:55:20 Debug: !!! GENRE: 2
+2008-01-25 11:55:20 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:55:27 Debug: Passed token: 
+2008-01-25 11:55:27 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 3
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:55:27 Debug: !!! GENRE: 3
+2008-01-25 11:55:27 Debug: AFTER SAVE GENRE: 3
+2008-01-25 11:57:07 Debug: Passed token: 
+2008-01-25 11:57:07 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 3
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:57:07 Debug: !!! GENRE: 3
+2008-01-25 11:57:07 Debug: AFTER SAVE GENRE: 3
+2008-01-25 11:57:28 Debug: Passed token: 
+2008-01-25 11:57:28 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 3
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:57:28 Debug: !!! GENRE: 3
+2008-01-25 11:57:28 Debug: AFTER SAVE GENRE: 3
+2008-01-25 11:57:42 Debug: Passed token: 
+2008-01-25 11:57:42 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 2
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:57:42 Debug: !!! GENRE: 2
+2008-01-25 11:57:42 Debug: AFTER SAVE GENRE: 2
+2008-01-25 11:58:03 Debug: Passed token: 
+2008-01-25 11:58:03 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 3
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 11:58:03 Debug: !!! GENRE: 3
+2008-01-25 11:58:03 Debug: AFTER SAVE GENRE: 3
+2008-01-25 12:01:23 Debug: Passed token: 
+2008-01-25 12:01:23 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 3
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 12:01:23 Debug: !!! GENRE: 3
+2008-01-25 12:01:23 Debug: AFTER SAVE GENRE: 3
+2008-01-25 12:02:13 Debug: Passed token: 
+2008-01-25 12:02:13 Debug: Array
+(
+    [Text] => Array
+        (
+            [text_id] => 3
+            [genre_id] => 3
+            [text_title] => 331
+            [text_token] => 33-qq
+            [text_date] => 33
+            [text_date_label] => 33
+            [text_year] => 33
+            [text] => 33
+        )
+
+)
+
+2008-01-25 12:02:13 Debug: !!! GENRE: 3
+2008-01-25 12:02:13 Debug: AFTER SAVE GENRE: 3
+2008-01-25 12:03:28 Debug: Passed token: 33-qq
+2008-01-25 12:03:38 Debug: Passed token: 33-qq
+2008-01-25 12:03:46 Debug: Passed token: 
+2008-01-25 12:03:49 Debug: Passed token: 
+2008-01-25 12:04:04 Debug: Passed token: 
+2008-01-25 12:04:06 Debug: Passed token: 33-qq
+2008-01-25 12:04:15 Debug: Passed token: 
+2008-01-31 23:03:48 Debug: Passed token: 
+2008-01-31 23:04:22 Debug: Passed token: 
+2008-01-31 23:06:01 Debug: Passed token: first-winter-day
+2008-01-31 23:10:25 Debug: Passed token: first-winter-day
+2008-01-31 23:10:42 Debug: Passed token: 
+2008-01-31 23:13:05 Debug: Passed token: 33
+2008-01-31 23:13:50 Debug: Passed token: 
+2008-01-31 23:22:57 Debug: Passed token: moment
+2008-01-31 23:23:02 Debug: Passed token: 
+2008-01-31 23:30:31 Debug: Passed token: first-winter-day
+2008-01-31 23:30:34 Debug: Passed token: 
+2008-01-31 23:31:17 Debug: Passed token: moment
+2008-01-31 23:31:43 Debug: Passed token: moment
+2008-01-31 23:31:49 Debug: Passed token: moment
+2008-01-31 23:32:14 Debug: Passed token: 
+2008-06-25 00:08:02 Debug: AFTER SAVE GENRE: 
+2008-06-25 00:08:04 Debug: AFTER SAVE GENRE: 
+2008-06-25 00:10:49 Debug: AFTER SAVE GENRE: 

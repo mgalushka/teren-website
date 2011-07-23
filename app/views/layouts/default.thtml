@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <title>Роман Терен</title>
+    <?php echo $html->css('main');?>
+    <link rel="icon" href="<?php echo $this->webroot . 'favicon.ico';?>" type="image/x-icon" />
+    <link rel="shortcut icon" href="<?php echo $this->webroot . 'favicon.ico';?>" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+    <script type="text/javascript" src="<?php echo $this->webroot . 'js/popup.js' ;?>"></script>
+  </head>
+  <body>
+    <table id="main_table">
+      <tr>
+        <td width="150" rowspan="2" align="center">
+          <br/><br/>
+	        <?php echo $html->link('Главная', '/', array('class' => 'left-menu-item')); ?><br/><br/>
+          <!--a class="left-menu-item" href="index.html">БИО</a><br/><br/-->
+          <?php echo $html->link('Стихи', '/poetry/', array('class' => 'left-menu-item')); ?><br/><br/>
+          <?php echo $html->link('Проза', '/prose/', array('class' => 'left-menu-item')); ?><br/><br/>
+          <?php echo $html->link('Драматургия', '/drama/', array('class' => 'left-menu-item')); ?><br/><br/>
+        </td>
+        <td style="padding-left: 60px; padding-top:140px" valign="top" width="600" height="150" colspan="2">
+		      <?php echo $html->link('Главная', '/', array('class' => 'hor-menu-item')); ?> - 
+          <!--a class="hor-menu-item" href="index.html">БИО</a--> 
+          <?php echo $html->link('Стихи', '/poetry/', array('class' => 'hor-menu-item')); ?> - 
+          <?php echo $html->link('Проза', '/prose/', array('class' => 'hor-menu-item')); ?> - 
+          <?php echo $html->link('Драматургия', '/drama/', array('class' => 'hor-menu-item')); ?>
+        </td>
+      </tr>
+      <tr>
+        <td width="450" valign="top" style="padding-left: 100px; padding-top: 15px;">
+          <?php echo $content_for_layout; ?>
+        </td>
+      </tr>
+    </table>
+    <table id="bottom_table">
+      <tr>
+        <td align="left" valign="bottom" style="padding-left: 100px; padding-top: 80px;">
+          <!--form name="subscribeForm" action="<?php echo $html->url('/subscribe/'); ?>" method="post">
+            <?php echo $html->input('Subscriber/subscriber_email', array('size' => 20, 'maxlength' => 50, 'value' => 'Ваш e-mail')); ?>
+            <font size="2">
+              <a class="s-link" href="javascript:subscribeForm.submit();" alt="Подписаться на обновления сайта">Подписаться</a>
+            </font>
+          </form-->
+        </td>
+        <td align="right" valign="bottom">
+          <font size="2" style="padding-right: 50px;">
+      		  &copy;&nbsp;2004&nbsp;&#150;&nbsp;<?php echo date("Y"); ?>&nbsp;<a class="s-link" href="mailto: max_from_sumy@mail.ru">Роман Терен</a> 
+          </font>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

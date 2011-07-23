@@ -1,0 +1,78 @@
+body {
+  font-family: Hetvelica,Verbana,sans-serif;
+}
+
+.top{
+  background-image: url(/teren/img/small_top.jpg);
+  background-repeat: no-repeat;
+}
+
+.bottom{
+  background-image: url(/teren/small_bottom2.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  vertical-align: top;
+  padding-top: 20px;
+  padding-left: 150px;
+}
+
+.bottom a:link{
+  text-decoration: none;
+  color: #000;
+}
+.bottom a:hover{
+  text-decoration: none;
+  color: #000;
+}
+.bottom a:active{
+  text-decoration: none;
+  color: #000;
+}
+.bottom a:visited{
+  text-decoration: none;
+  color: #000;
+}
+
+.title{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.text-area{
+  padding-left: 40px;
+  padding-top: 70px;
+}
+
+
+
+/*#div{
+  text-indent: 30px;
+  line-height: 22px;
+}
+#tab {
+  text-indent: 60px;
+}
+#notab{
+  text-indent: 10px;
+}
+#chorus{
+  text-indent: 100px;
+}
+#srttab{
+  text-indent: 200px;
+}*/
+.z{
+  text-indent: 40px;
+}
+.date{
+  float: right;
+  font-size: 12px;
+  font-family: Helvetica, Arial;
+}
+.author{
+  text-indent: 50px;
+  float: left;
+  font-size: 12px;
+  font-family: Helvetica, Arial;
+}

@@ -1,0 +1,61 @@
+<html>
+  <head>
+    <title>Роман Терен - Главная</title>
+    <?php echo $html->css('main');?>
+    <link rel="icon" href="<?php echo $this->webroot . 'favicon.ico';?>" type="image/x-icon" />
+    <link rel="shortcut icon" href="<?php echo $this->webroot . 'favicon.ico';?>" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+  </head>
+  <body>
+    <table id="main_table">
+      <tr>
+        <td width="150" rowspan="2" align="center">
+          <br/><br/>
+          <?php echo $html->link('Главная', '/', array('class' => 'left-menu-item')); ?><br/><br/>
+          <!--a class="left-menu-item" href="index.html">БИО</a><br/><br/-->
+          <?php echo $html->link('Стихи', '/poetry/', array('class' => 'left-menu-item')); ?><br/><br/>
+          <?php echo $html->link('Проза', '/prose/', array('class' => 'left-menu-item')); ?><br/><br/>
+          <?php echo $html->link('Драматургия', '/drama/', array('class' => 'left-menu-item')); ?><br/><br/>
+        </td>
+        <td style="padding-left: 60px; padding-top:140px" valign="top" width="600" height="150" colspan="2">
+          <?php echo $html->link('Главная', '/', array('class' => 'hor-menu-item')); ?> - 
+          <!--a class="hor-menu-item" href="index.html">БИО</a--> 
+          <?php echo $html->link('Стихи', '/poetry/', array('class' => 'hor-menu-item')); ?> - 
+          <?php echo $html->link('Проза', '/prose/', array('class' => 'hor-menu-item')); ?> - 
+          <?php echo $html->link('Драматургия', '/drama/', array('class' => 'hor-menu-item')); ?>
+        </td>
+      </tr>
+      <tr>
+        <td width="450" valign="top">
+          <p style="padding-left: 100px; padding-top: 70px">
+            <div style="font-size: 17px;padding-left: 100px;font-family: Garamond;">
+              За дверью бессмысленно все, особенно &mdash; возглас счастья.
+              <br/>
+              <span style="font-size: 14px; padding-left: 220px;">И. Бродский</span>
+            </div>
+            <!--br/>
+            <div style="font-size: 17px;padding-left: 100px;font-family: Garamond; font-style: italic;">
+              Но продуман распорядок действий, и неотвратим конец пути.
+              <br/>
+              <span style="font-size: 14px;padding-left: 250px;">Б. Пастернак</span>
+            </div>
+            <br/-->
+          </p>
+        </td>
+        <td width="150" valign="top">
+          <img src="img/pen.jpg"></img>
+        </td>
+      </tr>
+    </table>
+    <table id="bottom_table">
+      <tr>
+        <td align="right" valign="bottom">
+          <font size="2" style="padding-right: 50px;">
+      		  &copy;&nbsp;2004&nbsp;&#150;&nbsp;<?php echo date("Y"); ?>&nbsp;<a class="s-link" href="mailto: max_from_sumy@mail.ru">Роман Терен</a> 
+          </font>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+

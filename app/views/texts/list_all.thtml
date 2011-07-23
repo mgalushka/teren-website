@@ -1,0 +1,11 @@
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+  <td width="25%" valign="center">
+    <?php echo $message; ?>		
+    <?php echo $textList->renderYears($years, Array('class' => 'years-list'), Array('class' => 'active-year-item'), 'Text', 'text_year', $activeYear, 'poetry'); ?>
+  </td>
+  <td valign="center">
+    <?php echo $textList->renderTitles($texts, Array('class' => 'titles-list'), null, 'Text', 'text_title'); ?>    
+  </td>
+</tr>
+</table>

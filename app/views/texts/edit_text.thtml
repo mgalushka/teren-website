@@ -1,0 +1,58 @@
+<html>
+<head>
+  <title>Сніг - Редактирование</title>
+  <?php echo $html->css('main');?>
+  <link rel="icon" href="<?php echo $this->webroot . 'favicon.ico';?>" type="image/x-icon" />
+  <link rel="shortcut icon" href="<?php echo $this->webroot . 'favicon.ico';?>" type="image/x-icon" />
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+  <script type="text/javascript" src="<?php echo $this->webroot . 'js/popup.js' ;?>"></script>
+</head>
+
+<body>
+
+  <form name="publisherForm" action="<?php echo $html->url('/admin/edit/'); ?>" method="post">
+      Заполните внимательно форму публикатора.
+      Поля, помеченные <span class="red">*</span> обязательны к заполнению.
+      <br/><br/><br/>
+
+      <span class="red">Ошибка</span><br/><br/>
+
+      <?php echo $html->hidden('Text/text_id'); ?>
+
+      Жанр: <span class="red">*</span><br/>
+      <?php echo $html->selectTag('Text/genre_id', $genres, null, null, null, false); ?>
+       <br/><br/><br/>
+
+      Название: <span class="red">*</span><br />
+      <?php echo $html->input('Text/text_title', array('size' => 70, 'maxlength' => 100)); ?>
+      <br/><br/><br/>
+
+      Token: <span class="red">*</span><br />
+      <?php echo $html->input('Text/text_token', array('size' => 25, 'maxlength' => 25)); ?>
+      <br/><br/><br/>
+
+      Дата написания: <span class="red">*</span><br/>
+      <?php echo $html->input('Text/text_date', array('size' => 20, 'maxlength' => 100)); ?>
+      <br/><br/><br/>
+
+      Дата (для помещения под текст): <span class="red">*</span><br/>
+      <?php echo $html->input('Text/text_date_label', array('size' => 70, 'maxlength' => 255)); ?>
+      <br/><br/><br/>
+
+      Год написания: <span class="red">*</span><br/>
+      <?php echo $html->input('Text/text_year', array('size' => 20, 'maxlength' => 5)); ?>
+      <br/><br/><br/>
+
+      Текст публикуемого произведения:  <span class="red">*</span><br />
+      <?php echo $html->textarea('Text/text', array('rows' => 50, 'cols' => 70, 'wrap' => 'virtual')); ?>
+      <br/><br/><br/>
+
+      <input type="button" name="cancel" onclick="location.href='<?php echo $this->webroot; ?>admin/'" value="Отмена" />
+      <?php echo $html->submit('Сохранить'); ?>
+
+  </form>
+
+</body>
+
+</html>
+

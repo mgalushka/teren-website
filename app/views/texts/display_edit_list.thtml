@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Публикатор - Роман Терен - главная страница</title>
+    <?php echo $html->css('main');?>
+    <link rel="icon" href="<?php echo $this->webroot . 'favicon.ico';?>" type="image/x-icon" />
+    <link rel="shortcut icon" href="<?php echo $this->webroot . 'favicon.ico';?>" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+    <script type="text/javascript" src="<?php echo $this->webroot . 'js/popup.js' ;?>"></script>
+  </head>
+  <body>
+    <table border="1" width="100%">
+      <tr>
+        <td>ID</td>
+        <td>Название</td>
+        <td>Жанр</td>
+        <td>Дата написания</td>
+        <td>Редактирование произведения</td>
+      </tr>
+
+      <?php echo $textList->renderAllRecords($texts); ?>   	
+
+    </table>
+    <br/>
+    <br/>
+    <br/>
+    <input type="button" onclick="location.href='<?php echo $html->url('/admin/edit/'); ?>'" value="Добавить Новое Произведение"></input>&nbsp;&nbsp;&nbsp;
+    <input type="button" onclick="location.href='<?php echo $html->url('/admin/logout/'); ?>'" value="Выйти"></input>
+  </body>
+</html>

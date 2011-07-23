@@ -1,0 +1,81 @@
+<html>
+  <head>
+    <title>
+      Роман Терен - <?php echo $text_title; ?>
+    </title>
+	  <meta http-equiv="Content-Type" content="text/html; charset=windows-1251"/>
+    <?php echo $html->css('view');?>
+  </head>
+  <body>
+	<table cellpadding="0" cellspacing="0" border="0" width="<?php echo $table_width; ?>" height="700" class="top">
+		<tr height="100">
+			<td rowspan="5" height="30" width="100">&nbsp;</td>
+			<td height="170" align="center" valign="bottom" class="title">
+				<?php echo $text_title; ?>  
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" class="text-area">
+				<?php echo $text; ?>
+			</td>
+		</tr>
+		<tr>
+			<td height="70" align="right">
+				<?php echo $sign; ?>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+				<br/>
+				<br/>
+				<!-- AddThis Button BEGIN -->
+				<!--div class="addthis_toolbox addthis_default_style ">
+				<a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4d73f5a339b53202" class="addthis_button_compact">Share</a>
+				<span class="addthis_separator">|</span>
+				<a class="addthis_button_preferred_1"></a>
+				<a class="addthis_button_preferred_2"></a>
+				<a class="addthis_button_preferred_3"></a>
+				<a class="addthis_button_preferred_4"></a>
+				</div-->
+				<div class="addthis_toolbox addthis_default_style">
+					<a class="addthis_button_facebook"></a>
+					<a class="addthis_button_twitter"></a>
+					<a class="addthis_button_email"></a>
+				</div>
+				<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4d73f5a339b53202"></script>
+				<!-- AddThis Button END -->
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<br/>
+				<br/>
+				<div id="disqus_thread"></div>
+				<script type="text/javascript">
+					/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+					var disqus_shortname = 'romanteren'; 
+
+					// The following are highly recommended additional parameters. Remove the slashes in front to use.
+					var disqus_identifier = '<?php echo $token; ?>';
+					var disqus_url = 'http://teren.ho.com.ua<?php echo $html->url();?>';
+					//var disqus_developer = 1; // developer mode is on
+
+					/* * * DON'T EDIT BELOW THIS LINE * * */
+					(function() {
+						var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+						dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+						(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+					})();
+				</script>
+				<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+				<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" class="bottom" height="81"><!--a href="javascript:window.close();">[Закрыть окно]</a-->&nbsp;</td>
+		</tr>
+	</table>
+  </body>
+</html>
+
