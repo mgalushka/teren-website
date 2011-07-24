@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Сніг - Редактирование</title>
+  <title><?php echo $headerTitle; ?> - Редактирование</title>
   <?php echo $html->css('main');?>
   <link rel="icon" href="<?php echo $this->webroot . 'favicon.ico';?>" type="image/x-icon" />
   <link rel="shortcut icon" href="<?php echo $this->webroot . 'favicon.ico';?>" type="image/x-icon" />
@@ -15,7 +15,7 @@
       Поля, помеченные <span class="red">*</span> обязательны к заполнению.
       <br/><br/><br/>
 
-      <span class="red">Ошибка</span><br/><br/>
+      <!--span class="red">Ошибка</span--><br/><br/>
 
       <?php echo $html->hidden('Text/text_id'); ?>
 

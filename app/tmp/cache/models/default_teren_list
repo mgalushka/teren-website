@@ -1,1 +1,1 @@
-a:7:{i:0;s:6:"Author";i:1;s:5:"Genre";i:2;s:4:"Text";i:3;s:5:"Users";i:4;s:8:"rt_genre";i:5;s:8:"rt_texts";i:6;s:8:"rt_users";}
+a:7:{i:0;s:6:"author";i:1;s:5:"genre";i:2;s:8:"rt_genre";i:3;s:8:"rt_texts";i:4;s:8:"rt_users";i:5;s:4:"text";i:6;s:5:"users";}

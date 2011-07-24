@@ -1,4 +1,7 @@
 <?php
+/**
+ * Text controller is used for managing and displaying texts on web site
+ */
 class TextsController extends AppController
 {
 
@@ -61,7 +64,9 @@ class TextsController extends AppController
 		$this->checkSession();
 
 		//$this->log('Passed token: ' . $token, LOG_DEBUG);
-		$this->set('genres', $this->Genre->generateList(null, 'genre_id ASC', null, '{n}.Genre.genre_id', '{n}.Genre.genre_name'));
+		// get list of genges
+		$this->set('genres', $this->Genre->generateList(null, 'genre_id ASC', null,
+											'{n}.Genre.genre_id', '{n}.Genre.genre_name'));
 		//print_r($this->Genre->generateList(null, 'genre_id ASC', null, '{n}.Genre.genre_id', '{n}.Genre.genre_name'));
 		// If a user has submitted form data - save data in the database
         if (!empty($this->data))
@@ -90,13 +95,20 @@ class TextsController extends AppController
 	            }
 	        }
 	    }
-	    // edit existed text
+
+		$this->set('headerTitle', 'Новое произведение');
+
+	    // edit existing text
 	    if($token != null)
 	    {
         	$text = $this->Text->findByTextToken($token);
         	//print_r($text);
          	$this->data = $text;
+
+         	// set page title
+         	$this->set('headerTitle', $text['Text']['text_title']);
 	    }
+
         $this->render('editText', 'view', 'views/texts/edit_text.thtml');
 	}
 

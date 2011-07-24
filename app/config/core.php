@@ -49,7 +49,7 @@
  * With the other debug levels you get to click the "flash message" to continue.
  *
  */
-	define('DEBUG', 0);
+	define('DEBUG', 3);
 /**
  * Turn of caching checking wide.
  * You must still use the controller var cacheAction inside you controller class.
@@ -61,7 +61,7 @@
  * Error constant. Used for differentiating error logging and debugging.
  * Currently PHP supports LOG_DEBUG
  */
-	define('LOG_ERROR', 2);
+	define('LOG_ERROR', 0);
 /**
  * CakePHP includes 3 types of session saves
  * database or file. Set this to your preferred method.
